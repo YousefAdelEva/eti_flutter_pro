@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
 
 show:context
 var x ;
+var y ;
 
 
 
