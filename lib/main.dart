@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -14,6 +16,11 @@ class MyApp extends StatelessWidget {
 
 show:context
 var x ;
+var z;
+var g;
+PrintHandler
+ef;
+
 
 
 
